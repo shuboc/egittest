@@ -22,7 +22,7 @@ public class MainActivity extends Activity {
 		
 		
 		Log.i("verbose", "hahahahaha");
-		
+		Log.i("verbose", "hahahahaha");
 	}
 
 	@Override
